@@ -1,0 +1,80 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Dasara",
+      "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/dasara-et00316318-1679638362.jpg",
+      "director": " Srikanth Odela ",
+      "year": 2023,
+      "rating": 6.7,
+      "description": "In a town that is dependant on coal mining, The lives of three childhood friends turn chaotic when they get into a fight with the son of the village headman."
+    },
+    {
+      "id": 2,
+      "title": "RRR",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSexh1o8Qz8CBPrvshSZQOfRiNpaHieOUAasA&usqp=CAU",
+      "director": " S. S. Rajamouli",
+      "year": 2022,
+      "rating": 7.8,
+      "description": "A fearless revolutionary and an officer in the British force, who once shared a deep bond, decide to join forces and chart out an inspirational path of freedom against the despotic rulers."
+    },
+    {
+      "id": 3,
+      "title": "Miss Shetty Mr Polishetty",
+      "image": "https://static.toiimg.com/thumb/103612554.cms?width=400&height=300&resizemode=4&imgsize=29628",
+      "director": "Mahesh Babu Pachigolla",
+      "year": 2023,
+      "rating": 7.1,
+      "description": "Miss Shetty is a feminist living in London and wants to be single forever. Mr. Polishetty from Hyderabad in Telangana, India, wants to be in a committed relationship. The two appear to be in different stages of life but somehow connect."
+    },
+    {
+      "id": 4,
+      "title": "Virupaksha",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmS_WrkpUMTtpBu7WxDHtweVJpKS-d-9y8p7yqc69RwDJmLBCo5DvhUacKKzFlbD-op9w&usqp=CAU",
+      "director": " Karthik Varma Dandu",
+      "year": 2023,
+      "rating": 7.2,
+      "description": "A man must decode the secret behind a series of unexplained brutal deaths that leaves the villagers terrorised and shocked."
+    },
+    {
+      "id": 5,
+      "title": "Nani's Gang Leader",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgXTzf6YYOcIRKG4Lb6TkMm9Thb51z2XXM-DWxnYbngkApFTf5FE3pLZnAZ2XgUw2hfEE&usqp=CAU",
+      "director": " Vikram Kumar",
+      "year": 2019,
+      "rating": 7.6,
+      "description": "Five women from different walks of life seek the help of Pencil, a small-time crime novelist, to avenge the deaths of their loved ones in a robbery."
+    },
+    {
+      "id": 6,
+      "title": "Shyam Singha Roy",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGZMwnPcTpK6TTOqX4FAkKTaCylbjlMDuMl2BZWeLN7GskktK1jtF-5-g22Qjju552Wc8&usqp=CAU",
+      "director": " Rahul Sankrityan",
+      "year": 2021,
+      "rating": 7.6,
+      "description": "A director accused of plagiarism finds a transcendental connection to his past life when he digs deeper into his subconscious mind."
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1699627240328,
+      "text": "beautiful",
+      "movieId": "1"
+    },
+    {
+      "id": 1699633645646,
+      "text": "nice",
+      "movieId": "3"
+    },
+    {
+      "id": 1700541836273,
+      "text": "super",
+      "movieId": "2"
+    },
+    {
+      "id": 1700555017197,
+      "text": "excellent",
+      "movieId": "2"
+    }
+  ]
+}

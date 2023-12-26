@@ -1,0 +1,83 @@
+.movie-container {
+    margin-bottom: 20px;
+  }
+  
+  .movie {
+    display: flex;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .movie-image {
+    max-width: 200px;
+    max-height: 200px;
+    object-fit: cover;
+    border-radius: 10px 10px 10px 10px;
+  }
+  
+  .movie-info {
+    padding: 20px;
+  }
+  
+  .comment-section {
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius:10px 10px 10px 10px;
+    max-width: 300px;
+  }
+  
+  .comment-section input {
+    padding: 10px;
+    width: 70%;
+    max-width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .comment-section button {
+    padding: 10px;
+    margin-left: 10px;
+    background-color: #1b5e81;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .comments {
+    margin-top: 10px;
+
+  }
+  
+  .comments ul {
+    
+    padding: 0;
+    margin: 0;
+  }
+  
+  .comments li {
+    margin-bottom: 5px;
+  }
+
+
+
+  /* ... (existing styles) */
+
+/* Search Bar Styles */
+.search-bar {
+    margin: 20px 0;
+    text-align: center;
+  }
+  
+  .search-bar input {
+    padding: 10px;
+    width: 100%;
+    max-width: 400px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  
+  
